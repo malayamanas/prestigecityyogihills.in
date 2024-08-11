@@ -175,8 +175,8 @@ header{
 /*--- Banner Slider---*/
 .banner_warpper .carousel-item .main_bannerImg img {
     height: 800px;
-    object-fit: cover;
-     object-position: center;
+    object-fit: scale-down;
+    object-position: center;
 }
 
 .map_viewLO {
