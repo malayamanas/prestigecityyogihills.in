@@ -187,7 +187,7 @@ header{
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, rgba(15, 15, 15, 0.54) 21.41%, rgba(0, 0, 0, 0.94) 89.44%);
+    /* background: linear-gradient(180deg, rgba(15, 15, 15, 0.54) 21.41%, rgba(0, 0, 0, 0.94) 89.44%); */
     top: 0;
     left: 0;
 }
